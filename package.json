@@ -1,16 +1,16 @@
 {
   "private": true,
-  "displayName": "Plugin Name",
-  "name": "homebridge-plugin-name",
+  "displayName": "Terneo Heat floor v2",
+  "name": "homebridge-terneo-heatfloor2",
   "version": "1.0.0",
   "description": "A short description about what your plugin does.",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "url": "git://github.com/MykolaDiachok/homebridge-terneo-heatfloor2.git"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
+    "url": "https://github.com/MykolaDiachok/homebridge-terneo-heatfloor2/issues"
   },
   "engines": {
     "node": ">=12.13.0",
