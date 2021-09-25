@@ -1,9 +1,9 @@
 /**
  * This is the name of the platform that users will use to register the plugin in the Homebridge config.json
  */
-export const PLATFORM_NAME = 'TerneoHeatFloorV2';
+export const PLATFORM_NAME = 'TerneoHeatFloorV2Plugin';
 
 /**
  * This must match the name of your plugin as defined the package.json
  */
-export const PLUGIN_NAME = 'homebridge-terneo-heatfloor2';
+export const PLUGIN_NAME = 'homebridge-terneo-heatfloorv2';

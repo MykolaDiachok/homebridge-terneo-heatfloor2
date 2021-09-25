@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "TerneoHeatFloorV2Plugin",
+  "pluginAlias": "TerneoHeatFloorV2",
   "pluginType": "platform",
   "singular": true,
   "schema": {
@@ -10,6 +10,12 @@
         "type": "string",
         "required": true,
         "default": "Terneo heat floor v2"
+      },
+      "host": {
+        "title": "IP Address / Hostname",
+        "type": "string",
+        "required": true,
+        "format": "hostname"
       }
     }
   }

@@ -1,7 +1,7 @@
 {
   "private": true,
   "displayName": "Terneo Heat floor v2",
-  "name": "homebridge-terneo-heatfloor2",
+  "name": "homebridge-terneo-heatfloorv2",
   "version": "1.0.0",
   "description": "A short description about what your plugin does.",
   "license": "Apache-2.0",
